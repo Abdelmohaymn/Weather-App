@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <EditTextPreference
+        android:title="City"
+        android:textColor="@color/editTextColor"
+        android:backgroundTint="@color/editTextColor"
+        android:defaultValue="Cairo"
+        android:inputType="text"
+        android:key="city"
+        android:selectAllOnFocus="true"
+        />
+
+    <EditTextPreference
+        android:title="Language"
+        android:textColor="@color/editTextColor"
+        android:backgroundTint="@color/editTextColor"
+        android:defaultValue="en"
+        android:inputType="text"
+        android:key="lang"
+        android:selectAllOnFocus="true"
+        />
+
+    <SwitchPreference
+        android:title="Dark Theme"
+        android:defaultValue="false"
+        android:key="dark"
+        android:selectAllOnFocus="true"
+        />
+
+</PreferenceScreen>

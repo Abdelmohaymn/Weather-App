@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333030</color>
+    <color name="colorPrimaryDark">#333030</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textColor">#ffffff</color>
+    <color name="settings">#000000</color>
+    <color name="textColorSecondary">#C1BBBB</color>
+    <color name="background">@color/colorPrimary</color>
+    <color name="editTextColor">@color/colorAccent</color>
+    //1744CD
+    //4A4747
+</resources>
