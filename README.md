@@ -1,4 +1,4 @@
-Simple Weather App using Retrofit & Api from https://www.weatherapi.com/
+Simple Weather App using Retrofit & Api from https://www.weatherapi.com/ \n\n
 You can get weather in any city from settings fragment
 I alse added a button which get weather in your current location U+1F60E	
 You can use dark mode U+1F609	
