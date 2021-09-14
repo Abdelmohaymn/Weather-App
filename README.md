@@ -12,7 +12,7 @@ You can use dark mode 😉
 
 Here some screenshots :point_down:
 
-<img src="https://user-images.githubusercontent.com/68782059/133256269-d9af79e7-7c9d-4d54-9acc-3324b0811fb7.png" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/68782059/133256269-d9af79e7-7c9d-4d54-9acc-3324b0811fb7.png" width="600" height="700">
 
 ![Screenshot_٢٠٢١٠٩١٤-١٤١١١٠](https://user-images.githubusercontent.com/68782059/133257274-b78bb49b-ceb5-42e4-ba9a-404347538032.png)
 
