@@ -5,7 +5,7 @@ You can get weather in any city from settings fragment
 
 I alse added a button which get weather in your current location 😎
 
-You can now day weather forecast and hourly interval weather information for a given city 
+You can know day weather forecast and hourly interval weather information for a given city 
 
 You can use dark mode 😉
 
