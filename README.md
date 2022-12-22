@@ -3,7 +3,7 @@ Simple Weather App using Retrofit & Api from https://www.weatherapi.com/
 
 You can get weather in any city from settings fragment
 
-I alse added a button which get weather in your current location 😎
+I also added a button which get weather in your current location 😎
 
 You can know day weather forecast and hourly interval weather information for a given city 
 
